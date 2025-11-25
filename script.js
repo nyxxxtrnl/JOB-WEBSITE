@@ -24,8 +24,8 @@ const sampleJobs = [
     address:'J&F Department Store, Real St., Borongan City, Eastern Samar', requirements:'Application Letter, Resume', info:'Phone: (02) 8366-8788', hr:'hr@j&f.com'
   },
   {id:'j4', title:'Scuba Diving Instructor / Dive Guide', company:'Lurop Este', loc:'Ando/Divinubo Dive Center', desc:'Teaches diving skills and guides tourists during underwater activities.',
-    images:["",""],
-    address:'Pier 1, Cebu City', requirements:'Valid seaman book, STCW, experience at sea', info:'Global shipping, modern fleet, supportive team', hr:'hr@secureqa.com'
+    images:["https://scontent.fcgy2-1.fna.fbcdn.net/v/t39.30808-6/536658874_122123509226927694_206714450335443689_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeG9ULPyH6lEQQs0Cy5-hIiKWtfstEUuPEla1-y0RS48SRYA5yJNBB4PZS1xo7_uDu5p85pd9yb1ST38FsWd3scT&_nc_ohc=PRN-iq4_WRQQ7kNvwGOuaXY&_nc_oc=AdmzpbdmAqRTYqdzNQrg5mXJhud7lb0cttTNR3oawCZK8RhQsoehhtBrWsEkBC_Id4LUgiTDbVJMSr7J-2ANJS6_&_nc_zt=23&_nc_ht=scontent.fcgy2-1.fna&_nc_gid=ojGq-iTMqxPlTv0QzRxcPw&oh=00_AfiW2QgBxhL3VjrlmajrQwvNgsmkTqd9WYq7z6on9lDilQ&oe=692B7E4D","https://scontent.fcgy2-2.fna.fbcdn.net/v/t39.30808-6/518372856_122118104168927694_7506096328688728586_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFmVoujb24lVeu2p28-mGjBA73i3Qoh7tgDveLdCiHu2Ii_aSdpMoWRQEkYsJJJO5_DMYAE1QH8BxhtXUY6z1Ri&_nc_ohc=o_sxtXWQqpAQ7kNvwEhbiOM&_nc_oc=AdnGltnb1IHIwXkVNhb_72LKuY_GKr2kEax0pnAS__DMNIxPrOosBG3ug_dYAdSpz5ucpFCIf3gT7GGUW3z0QrtJ&_nc_zt=23&_nc_ht=scontent.fcgy2-2.fna&_nc_gid=RurIxOxWiCawXHpQ4nNwNA&oh=00_Afj-WxarQ1Vqxe9MeSKHJehb56s1ICLWcB3dsJFEzTYftg&oe=692BA762"],
+    address:'Magsaysay street, Maydolong, Philippines', requirements:'Application Letter, Resume', info:'0956 433 3708', hr:'luropeste@gmail.com'
   },
   {id:'j5', title:'Mobile Developer', company:'Appify', loc:'Remote', desc:'Build mobile apps for iOS/Android.',
     images:["https://www.simplilearn.com/ice9/free_resources_article_thumb/Building-a-career-in-Mobile-App-Development.jpg","https://careerkarma.com/blog/wp-content/uploads/2022/01/What-Industry-Hires-The-Most-Mobile-Developers.jpeg"],
