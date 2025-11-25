@@ -88,7 +88,7 @@ const sampleJobs = [
     address:'Remote', requirements:'Photoshop, Illustrator', info:'Graphics', hr:'hr@artify.com'
   },
   {id:'j20', title:'Customer Success', company:'Cliently', loc:'Cebu', desc:'Ensure customer satisfaction.',
-    images:["https://th.bing.com/th?id=OIF.Exl4NaaJoJ5x%2f5%2bmsZvFSA&rs=1&pid=ImgDetMain&o=7&rm=3","https://thumbs.dreamstime.com/b/handwriting-text-writing-customer-success-concept-meaning-customers-achieve-desired-outcomes-using-your-product-conceptual-166793256.jpg"],
+    images:["https://th.bing.com/th?id=OIF.Exl4NaaJoJ5x%2f5%2bmsZvFSA&rs=1&pid=ImgDetMain&o=7&rm=3","https://tse1.mm.bing.net/th/id/OIP.jus4aw5tXaqQJuGlp2dIuQHaEs?rs=1&pid=ImgDetMain&o=7&rm=3"],
     address:'Client Center, Cebu', requirements:'Support, CRM', info:'Customer success', hr:'hr@cliently.com'
   },
 ];
